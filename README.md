@@ -1,4 +1,4 @@
-# wget-modded
+#WGET-MODDED
 Recursive WebCrawler and Web Scraper, instantly get all the files of a website with all folders links and etc. from source. 
 
 # Installing wget on Windows
@@ -30,6 +30,12 @@ Welcome to the tutorial on how to install `wget` on Windows. `wget` is a free to
     - Open Command Prompt again.
     - Type `wget -V` to confirm the installation.
     - Type `wget --help` to see all possible functions of `wget`.
+  
+   **Downloading the File**
+   -Make a new folder where we will store the website files.
+   -Cd into that new Directory
+   -Use this command to Recursive WebCrawler and Web Scraper, instantly get all the files of a website with all folders links and etc. from source.
+   #Commands & Usage
 
 ## Conclusion
 Congratulations! You have successfully installed `wget` on Windows. 
