@@ -1,4 +1,5 @@
-## WGET-MODDED
+## WGET-MODDED ![NeonSignCheckMarkGIF](https://github.com/user-attachments/assets/1c551e9b-942f-41a2-b5ed-26e5d7fe2ca6)
+
 Recursive WebCrawler and Web Scraper, instantly get all the files of a website with all folders links and etc. from source. 
 
 # Installing wget on Windows
