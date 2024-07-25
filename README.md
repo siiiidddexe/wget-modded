@@ -35,7 +35,12 @@ Welcome to the tutorial on how to install `wget` on Windows. `wget` is a free to
    -Make a new folder where we will store the website files.
    -Cd into that new Directory
    -Use this command to Recursive WebCrawler and Web Scraper, instantly get all the files of a website with all folders links and etc. from source.
-   #Commands & Usage
+   ## Commands & Usage
+
+   
+```shell
+wget -r -np -nH –cut-dirs=3 -R index.html http://example.com
+```
 
 ## Conclusion
 Congratulations! You have successfully installed `wget` on Windows. 
